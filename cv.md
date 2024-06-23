@@ -18,9 +18,22 @@ I am a former lawyer with a successful background in corporate law, who has deci
 * Jira
 
 ### Code example 
+```javascript
+function containsValue(array, value) {
+   return array.includes(value);
+}
 
+const data = [20, 16, 11, 13, 15];
+console.log(containsValue(data, 16)); // true
+console.log(containsValue(data, 55)); // false
+```
 
-### Expirience 
+### Experience 
+* Skillbox Course (Frontend)
+* RS School
 
 
 ### Languages
+* Russian (Native)
+* English (B2)
+* German (A1)
