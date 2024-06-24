@@ -7,7 +7,9 @@
 
 ### About me: 
 
-I am a former lawyer with a successful background in corporate law, who has decided to pivot their career towards frontend development. Driven by a passion for technology and a desire to embrace new challenges, I've h immersed themselves in the world of web development, mastering HTML, CSS, and JavaScript. This unique blend of legal expertise and technical skills positions help me to bring a fresh perspective to the tech industry, combining analytical thinking and attention to detail with creativity and innovation. Eager to make a meaningful impact in their new field, I am excited to contribute to projects that enhance user experiences and drive technological advancements.
+I am a former lawyer with a successful background in corporate law, who has decided to pivot their career towards frontend development. Driven by a passion for technology and a desire to embrace new challenges, I've h immersed themselves in the world of web development, mastering HTML, CSS, and JavaScript. 
+
+This unique blend of legal expertise and technical skills positions help me to bring a fresh perspective to the tech industry, combining analytical thinking and attention to detail with creativity and innovation. Eager to make a meaningful impact in their new field, I am excited to contribute to projects that enhance user experiences and drive technological advancements.
 
 ### Skills and Proficiency:
 * HTML5, CSS3
@@ -29,8 +31,8 @@ console.log(containsValue(data, 55)); // false
 ```
 
 ### Experience 
-* Skillbox Course (Frontend)
-* RS School
+* Skillbox Course «Frontend»
+* RS School Course «JavaScript/Front-end. Stage 0» (in progress)
 
 
 ### Languages
