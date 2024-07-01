@@ -1,2 +1,2 @@
 # rsschool-cv
-stage 0 rs school
+[Link to CV](https://anyamelniik.github.io/rsschool-cv/)
