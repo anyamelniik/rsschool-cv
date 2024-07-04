@@ -1,7 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 0 auto;
     width: 1152px;
+    
 }
+
 p, ul, li, h1, h2 {
     margin: 0;
     padding: 0;
@@ -93,4 +99,128 @@ h2 {
     align-items: center;
     height: 67px;
     background-color: #FDFFE2;
+}
+
+
+.container-about-me {
+    display: flex;
+    justify-content: center;
+    padding: 50px 78px;
+}
+
+.container-about-me-text {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    padding: 55px 47px;
+    background-color: #FFF;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.about-me-text {
+    font-size: 24px;
+}
+
+.container-skills-experience {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0;
+    font-size: 24px;
+}
+
+.container-skills, .container-experience {
+    width: 432px;
+    padding: 40px 0 40px 45px;
+    background-color: #FFF;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.skills-list, .experience-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.code-container {
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
+
+.code-style {
+    white-space: pre;
+    padding: 30px 100px;
+    background-color: #FFF;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.lang-edu-header-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-lang, .header-skills {
+    width: 443px;
+    padding-left: 30px;
+}
+
+.container-lang-edu {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0;
+    font-size: 24px;
+}
+
+.language-container, .skills-container {
+    width: 423px;
+    padding: 40px 0 40px 45px;
+    background-color: #FFF;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.language-item, .skills-item {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.footer {
+    display: grid;
+    grid-template-columns: 1fr 100px 1fr;
+    padding: 50px 40px;
+    background-color: #DFF1FF;
+}
+
+.logo-svg {
+    height: 75px;
+}
+
+.github-link {
+    text-align: right;
+}
+
+.github-svg {
+    height: 75px;
+}
+
+.footer-text {
+    padding-top: 25px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.projects-container {
+    display: flex;
+    justify-content: center;
+    padding: 50px 0;
+}
+
+.project-image {
+    height: 400px;
+    border-radius: 20px;
 }
